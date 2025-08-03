@@ -1,2 +1,2 @@
 # IBM_Project
-This is IBM Project file.
+This is IBM Cloud Project file.
