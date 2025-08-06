@@ -13,10 +13,12 @@ Solution Overview
 🚀 Project Workflow
 📊 Results
 📁 Repository Contents
-👨‍💻 Intern Details
+👨‍💻 Intern Details:
+
 Name: SAI SALUNKHE
 Institute: YASHWANTRAO CHAVAN INSTITUTE OF SCIENCE SATARA
 Duration: 4 Weeks (15th July 2025 to 7th August 2025)
+
 📖 About the Internship
 This 4-week program focused on providing practical skills in AI and Cloud Computing. The internship was structured with weekly virtual sessions, mentor guidance, and hands-on labs. The curriculum included:
 
